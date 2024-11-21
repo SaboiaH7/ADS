@@ -1,0 +1,3 @@
+Resultado da divisão 1: 10.0
+Resultado da divisão 2: 5.0
+Resultado da divisão 3: 0.25
